@@ -1,0 +1,4 @@
+feedparser
+wikipedia-api
+chromadb
+streamlit
