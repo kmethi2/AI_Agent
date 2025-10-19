@@ -1,0 +1,112 @@
+{
+    "World": [
+        {
+            "title": "'No Kings' protests draw huge crowds as anti-Trump rallies sweep across US",
+            "link": "https://www.bbc.com/news/articles/c93xgyp1zv4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "title": "'I'm 89 and I saw my homeland rebuilt before - but now I don't believe Gaza has a future'",
+            "link": "https://www.bbc.com/news/articles/c87400e3j5eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "title": "US says Hamas is planning 'imminent' attack on Gaza civilians",
+            "link": "https://www.bbc.com/news/articles/cm2elr16jjqo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "title": "US to repatriate survivors of strike on 'drug-carrying submarine', Trump says",
+            "link": "https://www.bbc.com/news/articles/cn8xg1jve73o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "title": "Wrongfully imprisoned for more than 40 years, US man now faces deportation to India",
+            "link": "https://www.bbc.com/news/articles/ckgz85g6pj0o?at_medium=RSS&at_campaign=rss"
+        }
+    ],
+    "Technology": [
+        {
+            "title": "Benioff Apologizes for Saying Trump Should Send Troops to San Francisco",
+            "link": "https://www.nytimes.com/2025/10/17/us/benioff-apologizes-san-francisco.html"
+        },
+        {
+            "title": "Instagram Unveils Teen Safety Features for A.I. Chatbots",
+            "link": "https://www.nytimes.com/2025/10/17/technology/instagram-teen-safety-features-ai-chatbots.html"
+        },
+        {
+            "title": "Renting a San Francisco Apartment in the A.I. Boom? Good Luck.",
+            "link": "https://www.nytimes.com/2025/10/16/technology/san-francisco-rent-ai-boom.html"
+        },
+        {
+            "title": "California Regulates A.I. Companions + OpenAI Investigates Its Critics + The Hard Fork Review of Slop",
+            "link": "https://www.nytimes.com/2025/10/17/podcasts/california-regulates-ai-companions-openai-investigates-its-critics-the-hard-fork-review-of-slop.html"
+        },
+        {
+            "title": "The Culture Wars Came for Wikipedia. Jimmy Wales Is Staying the Course.",
+            "link": "https://www.nytimes.com/2025/10/18/magazine/jimmy-wales-interview.html"
+        }
+    ],
+    "Science": [
+        {
+            "title": "This common liver supplement could boost cancer treatment success",
+            "link": "https://www.sciencedaily.com/releases/2025/10/251017081515.htm"
+        },
+        {
+            "title": "Surgery beats Ozempic for long-term health, Cleveland Clinic finds",
+            "link": "https://www.sciencedaily.com/releases/2025/10/251016223118.htm"
+        },
+        {
+            "title": "Stanford scientists grow thousands of mini human brains using common food additive",
+            "link": "https://www.sciencedaily.com/releases/2025/10/251016223113.htm"
+        },
+        {
+            "title": "Scientists finally read the hidden DNA code that shapes disease",
+            "link": "https://www.sciencedaily.com/releases/2025/10/251016223110.htm"
+        },
+        {
+            "title": "Scientists just debunked the calcium and dementia myth",
+            "link": "https://www.sciencedaily.com/releases/2025/10/251016223108.htm"
+        }
+    ],
+    "Business": [
+        {
+            "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+            "link": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main"
+        },
+        {
+            "title": "Comex Gold, Silver Settle Lower",
+            "link": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main"
+        },
+        {
+            "title": "DeepSeek Won't Sink U.S. AI Titans",
+            "link": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main"
+        },
+        {
+            "title": "Financial Services Roundup: Market Talk",
+            "link": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main"
+        },
+        {
+            "title": "Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat",
+            "link": "https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main"
+        }
+    ],
+    "Sports": [
+        {
+            "title": "Stockton fuels UGA's latest rally to topple Ole Miss",
+            "link": "https://www.espn.com/college-football/story/_/id/46641607/stockton-leads-fourth-quarter-rally-georgia-tops-ole-miss"
+        },
+        {
+            "title": "Sources: Vols' Vitello favorite to land Giants job",
+            "link": "https://www.espn.com/mlb/story/_/id/46641299/tennessee-vitello-favorite-land-giants-job"
+        },
+        {
+            "title": "ASU takes down No. 7 Texas Tech in wild finish",
+            "link": "https://www.espn.com/college-football/story/_/id/46642260/arizona-state-takes-no-7-texas-tech-wild-finish"
+        },
+        {
+            "title": "Messi's hat trick all but clinches MLS Golden Boot",
+            "link": "https://www.espn.com/soccer/story/_/id/46641235/lionel-messi-mls-golden-boot-inter-miami-hat-trick-nashville"
+        },
+        {
+            "title": "Down time: Plane issue delays Packers for 5 hours",
+            "link": "https://www.espn.com/nfl/story/_/id/46642424/packers-flight-phoenix-delayed-more-five-hours"
+        }
+    ]
+}
